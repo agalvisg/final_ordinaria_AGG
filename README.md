@@ -1,5 +1,5 @@
 # Final_Ordinaria_AGG
-
+link al repositorio: https://github.com/agalvisg/final_ordinaria_AGG.git
 1) POO:
        Está compuesto de dos archivos: Genre.py y Book.py. En el primer archivo se importa el módulo Enum para enumerar los distintos géneros y crear una lista que después se utilizará en el archivo Book.py que contendrá el esqueleto final de .
 
